@@ -1,0 +1,12 @@
+Punto 1
+
+-Variables: Contenedores de datos que pueden cambiar durante sea necesario en la ejecucion de un programa
+
+-String: Es una cadena de letras 
+
+-Funciones: Un conjunto de instruciones que le damos al programa para que nos devuelva tareas o calculos,
+pero para que se tome como una funcion debe haber una entrada y una salida que entre si tengan relaciion.
+
+-if: es dar una tarea a un programa si el valor que se propone esta en el rango estipulado.
+
+-Valores booleanos: es un tipo de dato que puede tener dos valores. Verdadero o falso.  
