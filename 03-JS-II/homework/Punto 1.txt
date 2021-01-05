@@ -1,0 +1,5 @@
+&&: Es para anexar valores y que den un resultado.
+
+||: Es para encadenar dos o mas valores en una misma operacion. Es como si fuera un "o" en  lenguaje escrito.
+
+!: Se utiliza para negar que un valor es igual a otro. Un ejemplo seria: 5 != 3 
