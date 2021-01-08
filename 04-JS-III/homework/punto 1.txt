@@ -1,0 +1,3 @@
+Arrays: Un array es un conjunto de elementos que pueden contener cualquier tipo de valores (nums, strings , null, etc)
+A su vez están enumerados como una lista... (el primer elemento se empieza a contar desde 0,1,2,3,etc).
+Tambien tiene métodos para agregar o quitar elementos o si bien ver cuantos elementos tiene el índice del array.
