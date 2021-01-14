@@ -1,0 +1,11 @@
+Objetos: Es como un array, pero más complejo que contiene propiedades que asignan valores dentro de ese objeto
+ (es más intuitivo acceder a los valores de un objeto que a los de un array).
+ Sin ir más lejos, un array es un objeto enmascarado, pero más simple.
+  
+
+Propiedades: Son elementos dentro de un obejto con valores asignados ej (null,undefined,strings,nums,booleanos) 
+
+Métodos: Son funciones dentro de un objeto.
+
+Notación de puntos vs corchetes: Dos maneras distintas de acceder a los elementos de un objeto...
+Para notacion de [] generalmente se usan variables que contienen el nombre de una clave.
